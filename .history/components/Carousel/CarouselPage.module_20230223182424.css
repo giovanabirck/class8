@@ -1,0 +1,7 @@
+.main {
+    background-image: "url(/carousel-images/" + img + ".jpg)";
+    background-size: "cover";
+    background-repeat: "no-repeat";
+    width: 500,
+    height: 300
+}
